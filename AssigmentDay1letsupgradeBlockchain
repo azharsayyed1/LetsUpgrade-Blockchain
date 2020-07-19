@@ -1,0 +1,32 @@
+
+
+1.What is your understanding of blockchain?
+
+Its a technology or a complete suite if distributed ledger that can be programmed to get values or record(Financial tranctions, Medical records).
+Its stored information in form of blocks to form a continous line or a chain of blocks,
+if we have to change some file in new block we are not able to go back and change istead we had a new block and makes changes via adding a block number particular time and date .
+It Can be called as Distributed network which has to go through diffrent cryptographic puzzle.
+
+2.What is the main problem blockchain tried to solve? 
+
+It Tried solveing a problem to transfer assets digitally with intervetion of third party.
+Where internet failed with providing security and authentcity.
+
+Q.3 Features of blockchain
+Verifiable
+Unchangeable
+Tamper – proof
+Immutable
+
+Q.4 What all things a block contains?
+Block number
+Transaction records
+Previous block signature
+Mining key (Nonce)
+
+Q5.How is the Verifiability of Blockchain is been attained.
+Day1:Document=Signature
+Day2:Document+Previous signature
+Day3:Document+Previous signature(Day2+day1)
+Incase if the signature doesnt matches then the data has been purely manipulated we can attain the verifiability with sigantures.
+
